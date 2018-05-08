@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "615884646786",
+    "firebase_url": "https://monitorsiswa.firebaseio.com",
+    "project_id": "monitorsiswa",
+    "storage_bucket": "monitorsiswa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615884646786:android:9c4e5d0ab5cfb778",
+        "android_client_info": {
+          "package_name": "studio.emcorp.monitoringsiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615884646786-5i2ef17m627oce7dmp2o2jpu82ivf3ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKHyaa3zFr0u4sfFvAHVVhoSWDtKtlCmk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
